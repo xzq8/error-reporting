@@ -1,0 +1,25 @@
+{
+  "name": "fontend-error-reporting",
+  "version": "0.0.2",
+  "description": "fontend error reporting",
+  "main": "index.js",
+  "keywords": [
+    "error",
+    "fontend",
+    "report"
+  ],
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "az-xzq",
+  "license": "ISC",
+  "devDependencies": {
+    "karma": "^4.2.0",
+    "karma-chrome-launcher": "^3.1.0",
+    "karma-cli": "^2.0.0",
+    "karma-firefox-launcher": "^1.2.0",
+    "karma-mocha": "^1.3.0",
+    "karma-safari-launcher": "^1.0.0",
+    "mocha": "^6.2.0"
+  }
+}
