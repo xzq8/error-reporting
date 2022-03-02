@@ -14,7 +14,7 @@
   "author": "az-xzq",
   "license": "ISC",
   "devDependencies": {
-    "karma": "^4.2.0",
+    "karma": "^6.3.16",
     "karma-chrome-launcher": "^3.1.0",
     "karma-cli": "^2.0.0",
     "karma-firefox-launcher": "^1.2.0",
